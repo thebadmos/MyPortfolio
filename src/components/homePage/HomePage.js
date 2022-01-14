@@ -12,7 +12,7 @@ export default class HomePage extends Component {
                   
                    <Link to ="/projects"><button type="submit" className="button" >See Projects <i className="fas fa-arrow-right "></i></button></Link>
                    <br/>
-                   <Link to ="/cv/Olamiji Badmos CV.pdf" target="_blank" download><button type="submit" className="button" id="cv" >Download CV <i className="fas fa-download "></i></button></Link>
+                   <Link to ="/cv/BADMOSOLAMIJI CV.pdf" target="_blank" download><button type="submit" className="button" id="cv" >Download CV <i className="fas fa-download "></i></button></Link>
                  <br/>
                  <br/>
                     <ul className = "nav ">
