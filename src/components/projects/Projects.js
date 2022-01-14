@@ -131,20 +131,20 @@ export default function Projects() {
     </div>
   </div>
   </div>
-  {/* <div className="col-sm-6 col-xs-12 pb-3">
+  <div className="col-sm-6 col-xs-12 pb-3">
   <div className="card h-100  bg-dark cardInfo">
     <div className="card-body">
-      <h5 className="card-title">Quote Generator</h5>
+      <h5 className="card-title">Vasiti</h5>
       <hr/>
-      <p className="card-text">Get Inspired Quote <br/> React + Bootstrap + Quote Generator API</p>
+      <p className="card-text">A Random UI i saw online<br/> React + API</p>
     </div>
     <div className="card-footer">
-      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://chuckjokegenerator.netlify.app/"> <i className="far fa-eye"></i></a></small>
-      <small><a target="_blank" rel="noreferrer" href="https://github.com/thebadmos/quote"> <i className="fas fa-code-branch"></i></a></small>
+      <small className="pr-4"><a target="_blank" rel="noreferrer" href="https://mijivasiti.netlify.app/"> <i className="far fa-eye"></i></a></small>
+      <small><a target="_blank" rel="noreferrer" href="https://github.com/thebadmos/mijivasiti"> <i className="fas fa-code-branch"></i></a></small>
       
     </div>
   </div>
-  </div> */}
+  </div>
 
   <div className="col-sm-6 col-xs-12 pb-3">
   
